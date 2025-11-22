@@ -1,63 +1,62 @@
-# Hi there, I'm Vedant Tailor! 👋
-
-I'm a passionate developer interested in building scalable systems, mobile apps, and modern web interfaces. Currently working from home and expanding my skills in DevOps and Full Stack Development.
-
-- 🔭 I’m currently working on **Java, PHP, and Containerization**
-- 📱 I build mobile applications using **React Native**
-- 🎨 I style web applications using **Tailwind CSS**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Docker, Kubernetes, and JavaScript**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
+<div align="center">
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <img src="https://img.shields.io/badge/AJAX-Showcase-blue?style=flat-square&logo=javascript" alt="ajax" height="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F83F8&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Vedant;Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  
+  <h3>Building scalable systems & mobile applications 🚀</h3>
+  
+  <p>
+     Master of Computer Applications Student | Java & PHP Specialist
+  </p>
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
+  <p>
+    <a href="https://github.com/Vedant1274">
+      <img src="https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+</div>
 
----
+<br />
 
-### 📊 GitHub Statistics
+<div align="center">
+  
+  <h3>🛠️ Tech Stack & Tools</h3>
+  
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  
+  <br /><br />
+  
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant1274&show_icons=true&theme=radical" alt="Vedant1274" />
-</p>
+  <br /><br />
+  
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant1274&layout=compact&theme=radical" alt="Vedant1274" />
-</p>
+</div>
 
----
+<br />
+<hr />
 
-### 🔗 Connect with me
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Vedant1274)
+<div align="center">
+
+  <h3>📊 GitHub Analytics</h3>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Vedant1274&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="Vedant1274" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant1274&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Langs" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant1274&theme=dracula&hide_border=true&background=0d1117" alt="Streak Stats" />
+  </p>
+
+</div>
